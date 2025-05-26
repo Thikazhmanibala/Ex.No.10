@@ -1,8 +1,8 @@
 # Ex.No.10
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
-## Reg. No: 212222110035
+## Date:26-05-25
+## Reg. No: 212222060277
 
 ## AIM
 To explore and demonstrate how different prompting strategies—such as query breakdown, guided decision-making, semantic refinement, and structured content extension—can be applied to generate diverse content types (e.g., reports, articles, case studies, or creative fiction) using ChatGPT or similar AI models. The goal is to understand how prompt variations impact content coherence, structure, and relevance.
